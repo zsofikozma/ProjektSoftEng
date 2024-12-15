@@ -61,7 +61,6 @@ ASP .NET alkalmazás, melyet lehet a Forms alapú projekttel közös solution-be
 -   `2x2p`  SQL tábla egy választható rekordjának szolgáltatása API végponton keresztül
 -   `1x3p`  SQL tábla egy választható rekordjának törlése
 -   `1x5p`  Új rekord felvétele  `HttpPost`  metóduson keresztül SQL táblába
--   `1x3p`  Rekord módosítása  `HttpPost`  metóduson keresztül SQL táblában
 
 # Hozott anyagok
 
@@ -92,4 +91,4 @@ Itt csak azok az elemek számíthatóak be, amelyeknek meg van a ZH alatt felép
 
 -   `2x1p`  `Scaffold-DbContext`  használata (ajándék)
 
-# ~66p
+# ~63p
