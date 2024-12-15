@@ -91,3 +91,4 @@ Itt csak azok az elemek számíthatóak be, amelyeknek meg van a ZH alatt felép
 -   `2x1p`  `Scaffold-DbContext`  használata (ajándék)
 
 # ~64p
+(lehet nem jól számoltam bocsánat, nagyon sokszor átszámoltam és elvileg ennyi!!)
