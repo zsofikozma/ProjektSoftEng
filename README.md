@@ -91,3 +91,5 @@ Itt csak azok az elemek számíthatóak be, amelyeknek meg van a ZH alatt felép
 # Egyéb,  extra
 
 -   `2x1p`  `Scaffold-DbContext`  használata (ajándék)
+
+# ~66p
