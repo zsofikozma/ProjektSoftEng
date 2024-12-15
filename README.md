@@ -73,8 +73,7 @@ SQL script formájában, de legjobb Azure SQL szerveren hosztolni
 -   `1x1p`  Az adatbázis adatainak forrásmegjelölése értsd: miből készült és hogyan
 *(-- Adatbázis forrásmegjelölése:
 -- 1. A 'Users' tábla adatai fiktívek, kitalált nevekkel.
--- 2. A 'Items' tábla híres könyveket és sorozatokat tartalmaz.
--- 3. A 'Ratings' tábla értékelései és kommentjei kitaláltak, de tükrözik a tartalmak általános megítélését.)*
+-- 2. A 'Ratings' tábla értékelései és kommentjei kitaláltak, de tükrözik a tartalmak általános megítélését.)*
 -   `1x2p`  Az adatbázis saját Azure SQL szerveren van
 
 ## Weboldal
