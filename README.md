@@ -4,7 +4,7 @@ Kozma Zsófia - ELPIMX
 
 A projektemben könyveknek és sorozatoknak az értékeléseit lehet vezetni. Lehet csinálni felhasználói fiókot, így személyenként vannak az értékelések. 
 
-Itt egy videó, amin a programomat és a weblapomat mutatom be: 
+Itt egy videó, amin a programomat és a weblapomat mutatom be: https://unicorvinus-my.sharepoint.com/:v:/g/personal/zsofia_kozma_stud_uni-corvinus_hu/EePAmxIZAt1PqGAwYaYJ6R4B0b4A1HAPtVpeoVX__onDMw?e=4vfs6H
 
 
 # Windows Forms Application
